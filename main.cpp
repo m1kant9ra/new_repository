@@ -4,11 +4,13 @@
 using namespace std;
 
 
-void main()
+int main()
 {
 	int a, b = 0;
 	cin >> a;
 	cin >> b;
 	cout << a + b << endl;
+
+	return 0;
 
 }
