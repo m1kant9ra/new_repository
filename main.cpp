@@ -13,6 +13,7 @@ int main()
 	cout << a - b << endl;
     cout << a * b << endl;
     cout << a/b << endl;
+    cout << "привет" << endl;
 	return 0;
 
 }
